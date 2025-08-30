@@ -31,6 +31,6 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com) *(add your profile link here)*  
-- Email: yourname@snhu.edu  
+- Email: donald.champagne@snhu.edu  
 
 ---
