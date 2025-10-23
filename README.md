@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com) *(add your profile link here)*  
+- [LinkedIn](https://www.linkedin.com) *👷‍♂️Under Construction🚧*  
 - Email: donald.champagne@snhu.edu  
 
 ---
