@@ -32,7 +32,3 @@ LinkedIn
  (profile in progress)
 
 📧 Email: donald.champagne@snhu.edu
-
-Make a lighter academic version just for SNHU viewing
-
-But yes — this update is the right move, and you’re catching it at exactly the right time.
