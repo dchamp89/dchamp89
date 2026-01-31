@@ -1,34 +1,31 @@
-Hi there, I’m Donald 👋
+Hi, I’m Donald 👋
 
-🎓 Computer Science Major @ Southern New Hampshire University
-🔐 Focused in Cybersecurity & Secure Software Practices
+🎓 Computer Science student at Southern New Hampshire University
+🔐 Concentration in Cybersecurity & Secure Software Practices
 
 🚀 About Me
 
-🌱 Currently learning secure software development, Java, and database systems
+🌱 Learning secure software development, Java, databases, and defensive security concepts
 
 🛠️ Building projects in Java, Python, SQL, and security-focused tooling
 
-🎯 Career goal: Work in cybersecurity, secure application development, or IT-focused roles
+🎯 Career goal: cybersecurity analyst, SOC role, or secure application development
 
-📊 Interests include vulnerability assessment, secure coding, automation, and industrial technology systems
+📊 Interests include vulnerability assessment, secure coding, automation, and industrial control systems
 
-🗂️ Highlight Projects
+🗂️ Featured Projects
 
-🔹 Artemis Financial Secure Software Project — HTTPS implementation, cryptographic hashing, and dependency vulnerability analysis
+🔹 Artemis Financial Secure Software Project — HTTPS configuration, cryptographic hashing, and dependency vulnerability analysis
 
-🔹 Quantigration RMA Database — SQL schema and ERD for a return management system
+🔹 Quantigration RMA Database — SQL schema design and ERD for a return management system
 
-🔹 Paging Simulation — Memory management strategies implemented in Java (Best-Fit, Worst-Fit, First-Fit)
+🔹 Paging Simulation — Java-based memory management strategies (Best-Fit, Worst-Fit, First-Fit)
 
 🛠️ Languages & Tools
 
-
-
+Java • Python • SQL • Git/GitHub • Linux (learning) • Secure Coding • Database Design
 
 📫 Connect with Me
 
-LinkedIn
- (profile in progress)
-
-📧 Email: donald.champagne@snhu.edu
+LinkedIn https://www.linkedin.com/in/donald-champagne-502515278
+📧 donald.champagne@snhu.edu
